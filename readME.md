@@ -1,0 +1,2 @@
+# Jogo da Cobrinha
+ Projeto Snake Game, feito com JavaScript, HTML E CSS, onde o objetivo é comer as comidas vermelhas que aumentam o tamanho da cobra, sem deixar que o corpo dela se encontre durante a trajetória.
